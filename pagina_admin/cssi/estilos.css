@@ -1,0 +1,13 @@
+.container{
+    
+    background-color: forestgreen;
+    text-align: center;
+    padding: 20px;
+    width: 40%;
+    margin-top: 100px;
+    color:aliceblue;
+}
+
+input{
+    margin-bottom: 30px;
+}

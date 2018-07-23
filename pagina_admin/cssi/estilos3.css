@@ -1,0 +1,78 @@
+.container-fluid{
+    
+    background-color: forestgreen;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    margin-top: 20px;
+    
+    
+    color:aliceblue;
+    
+}
+
+body{
+    
+ background-color: forestgreen;
+}
+
+
+.izquierda{
+    
+    width: 35%;
+    align-content: center;
+    color: aliceblue;
+    padding-top: 40px;
+    
+}
+
+.derecha{
+    
+  width: 60%;
+    align-content: center;
+    color: aliceblue;
+    padding-top: 40px;
+    margin-right: 30px;
+    }
+
+
+.logo{
+    text-align: center;
+    padding-bottom: 35px;
+}
+
+.tilulo h1{
+    margin: auto;
+    padding: auto;
+    vertical-align:middle;
+    color: brown;
+    background-color: red;
+    
+       
+}
+
+.cuerpo{
+ margin-left: 50px;   
+    
+}
+
+.tabla{
+    
+}
+
+td{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+th{
+    font-size: 2em;
+}
+
+.fecha{
+    text-align: center;
+    padding: 0.72em;
+    font-size: 1.2em;    
+    
+}
